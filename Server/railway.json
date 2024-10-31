@@ -1,7 +1,0 @@
-{
-  "root": "Server",
-  "nixpacks": {
-    "language": "nodejs",
-    "version": "18"
-  }
-}
